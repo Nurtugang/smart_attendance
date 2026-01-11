@@ -1,0 +1,27 @@
+# Python
+venv/
+*.sqlite3
+__pycache__/
+.env
+static/
+media/
+
+
+# Node.js
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
